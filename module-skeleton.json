@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-scheduling-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-scheduling",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-scheduling-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/scheduling.md",
+  "presentationPlan": "projects/crm/nuxt/scheduling.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
